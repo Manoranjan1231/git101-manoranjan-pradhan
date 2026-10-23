@@ -32,3 +32,5 @@ Public training repository for Git101. Learners should use this as a template, c
 Use only synthetic data. Do not commit real client data, passwords, API keys, cloud credentials, `.env` files, raw production data, large generated files, virtual environments, logs, or output folders.
 ## Chapter 5 Practice
 Practising push and pull with my learner repo.
+Chapter 7 practice: learning safe Git recovery commands.
+Chapter 9 practice: learning GitHub Actions and automated pytest checks.
