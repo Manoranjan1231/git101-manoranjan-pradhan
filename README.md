@@ -33,3 +33,4 @@ Use only synthetic data. Do not commit real client data, passwords, API keys, cl
 ## Chapter 5 Practice
 Practising push and pull with my learner repo.
 Chapter 7 practice: learning safe Git recovery commands.
+Chapter 9 practice: learning GitHub Actions and automated pytest checks.
